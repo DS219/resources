@@ -10,7 +10,7 @@ that will be used for future DS219 students.
 # fork first from GitHub console!
 mkdir DS219 && cd DS219 # if you haven't already
 git clone git@github.com:yourname/resources
-cd DS219
+cd resources
 git remote add upstream git@github.com:DS219/resources.git
 ```
 
